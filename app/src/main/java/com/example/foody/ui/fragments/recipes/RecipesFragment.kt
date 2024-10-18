@@ -1,13 +1,10 @@
-package com.example.foody
+package com.example.foody.ui.fragments.recipes
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.view.WindowInsets
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import androidx.fragment.app.Fragment
 import com.example.foody.databinding.FragmentRecipesBinding
 
 class RecipesFragment : Fragment() {
